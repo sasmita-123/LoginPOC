@@ -1,0 +1,18 @@
+nav{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+h1{
+    color: chocolate;
+  }
+ul{
+    display: flex;
+  }  
+li{
+    list-style: none;
+    margin-right: 30px;
+    color:chocolate;
+}
